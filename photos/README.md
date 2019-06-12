@@ -6,6 +6,8 @@
 
 ![](2006/wcsc_seccdc_05_1.JPG)
 
+[[source](https://wcscusf.slack.com/archives/C09GX359N/p1560344084008900)]
+
 From @triple-h:
 
 > Back, L to R: Matt Boksa (DJ Mitch Mitchem), @triple-h, Kenny Shelton (racerx), Bryce Kerley (bonzoesc or vito), Craig Sniffen, @dfraze, Ryan Dorey. Front, L to R: @jetboy, Jim Connor (jymbolia).
@@ -15,6 +17,8 @@ From @triple-h:
 #### Engineering Expo 2008
 
 ![](2008/joe_rogers.png)
+
+[[source](https://wcscusf.slack.com/archives/C09GX359N/p1560341121005700)]
 
 From @triple-h:
 
