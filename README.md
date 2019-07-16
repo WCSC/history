@@ -67,7 +67,7 @@ Held the first ctf at the Florida Cybersecurity Conference
 
 ## Eboard
 - President: Will Seed (@wseed)
-- Vice President: Brad Trotter (@bt)
+- Vice President: ?
 - Secretary: Sean Murphy (@duck)
 - Treasurer: Todd Knieriemen
 
@@ -76,8 +76,9 @@ Held the first ctf at the Florida Cybersecurity Conference
 ## Eboard
 
 - President: Luke Hritsko (@rastii)
-- Vice President Brad Trotter (@bt)
-- Secretary: Bader AlBassam (@gh0s1)
+- Vice President: Andrew Calvano (@acalvano)
+- Treasurer: Brad Trotter (@bt)
+- Secretary: Natalie Edinger
 
 # 2012-2013
 
