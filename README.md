@@ -98,7 +98,8 @@ Held the first ctf at the Florida Cybersecurity Conference
 ## Eboard
 
 - President: Allison Kline (@sigtrap)
-- Treasurer: Bader AlBassam (@gh0s1)
+- Vice President: Nathan Baron (@baronvon)
+- Treasurer: John (@ninjafish) or Bader AlBassam (@gh0s1) (Currently debated)
 
 # 2010-2011
 
@@ -109,6 +110,9 @@ New logo design drawn by @fuzyll's (now wife) girlfriend to motivate new interes
 ## Eboard
 
 - President: Alex Taylor (@fuzyll)
+- Vice President: Chris Head
+- Treasurer: Bhargava Kondaveeti
+- Secretary: Clayton Whitelaw 
 
 # 2009-2010
 
