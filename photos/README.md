@@ -103,4 +103,8 @@ From @truvis:
 
 #### Engineering Expo 20??
 
+From @ktrio3:
+
+> Based on https://www.youtube.com/watch?v=9uAjddBg-x0 and https://www.youtube.com/watch?v=1Rp4fVb29k0, I believe this is 2012!
+
 ![](unknown/expo.jpg)
