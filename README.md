@@ -7,6 +7,10 @@ The effort to record WCSC history began in 2019 by Kevin Orr, inspired by the pa
 
 Due to the late start, there are many gaps in our knowledge. Significant effort was put into verifying the accuracy of the following, but it cannot be guranteed. If you have information on WCSC's past, please submit a pull request or message one of the current EBoard members.
 
+# Photos
+
+For any historic photos we've collected, see the [photos](photos) directory.
+
 # 2019-2020
 
 Whitehatters 24/7 CTF board was restored during the 2019-2020 period. In addition, the first CodeBreakHERS camp, a cryptography summer camp for high school girls, was held during the summer of this year.
