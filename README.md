@@ -11,11 +11,58 @@ Due to the late start, there are many gaps in our knowledge. Significant effort 
 
 For any historic photos we've collected, see the [photos](photos) directory.
 
+# 2024
+
+The Blue Team Captain Position has been morphed into System Administrator as Whitehatters is no longer able to do competitions that necessitated it.
+
+## Eboard
+
+- President: Jackson Liveringhouse
+- Vice President: Bilal Saeed
+- Treasurer: Grant Stevens
+- Secretary: Fagan Afandiyev
+- System Administrator: Zachary Long
+- Public Relations: Public Relations
+
+# 2023
+
+## Eboard
+
+- President: Austin Worline (stepped down)
+- Vice President/Interim President: Jacob Hammargren
+- Treasurer: Jackson Liveringhouse
+- Secretary: Elias Peters
+- Blue Team Captain/Interim Vice President: Brandon Gonzalez
+- Public Relations: Rin Lang
+
+# 2022
+
+## Eboard
+
+- President: Waseem Albaba
+- Vice President: Christopher Greenland
+- Treasurer: Bilal Joud
+- Secretary: Ethan Couch
+- Blue Team Captain: Austin Worline
+- Public Relations: Ishana Maharaj
+
+# 2021
+
+## Eboard
+
+- President: Julie Gonzalez
+- Vice President: Christopher Greenland
+- Treasurer: Alex Whitaker
+- Secretary: Waseem Albaba
+- Blue Team Captain: Nicholas Gonzalez
+- Public Relations: David Bravo
+
 # 2019-2020
 
 Whitehatters 24/7 CTF board was restored during the 2019-2020 period. In addition, the first CodeBreakHERS camp, a cryptography summer camp for high school girls, was held during the summer of this year.
 
 ## Eboard
+
 - President: Truvis (@truvis)
 - Vice President: Kevin Dennis (@ktrio3)
 - Treasurer: Alexandra Whitaker (@Whitaker)
@@ -70,6 +117,7 @@ Held the first ctf at the Florida Cybersecurity Conference
 # 2014-2015
 
 ## Eboard
+
 - President: Will Seed (@wseed)
 - Vice President: ?
 - Secretary: Sean Murphy (@duck)
