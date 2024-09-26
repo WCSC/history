@@ -1,0 +1,16 @@
+10:29 < [WCSC]lolpwn> $ ssh root@10.13.144.2
+10:29 < [WCSC]lolpwn> Linux ubuntu 2.6.35-22-generic-pae #33-Ubuntu SMP Sun Sep 19 22:14:14 UTC 2010 i686 GNU/Linux
+10:29 < [WCSC]lolpwn> Ubuntu 10.10
+10:29 < [WCSC]lolpwn> Welcome to Ubuntu!
+10:29 < [WCSC]lolpwn>  * Documentation:  https://help.ubuntu.com/
+10:29 < [WCSC]lolpwn> Last login: Fri Dec  3 13:40:59 2010 from 10.13.126.250
+10:29 < [WCSC]lolpwn> root@ubuntu:~# rm -Rf /
+10:30 < [WCSC]lolpwn> rm: it is dangerous to operate recursively on `/'
+10:30 < [WCSC]lolpwn> rm: use --no-preserve-root to override this failsafe
+10:30 < [WCSC]lolpwn> root@ubuntu:~# rm -Rf --no-preserve-root /
+10:30  * [WCSC]lolpwn waves goodbye. :)
+10:30 < [WCSC]seaking> oh shit son
+10:31 < [WCSC]lolpwn> Yummy.
+10:32 < [WCSC]lolpwn> Sorry.  I would have rebooted...but I rm'd first. :(
+10:32 <@zanardi> lots of people are getting rooted...
+10:32 < [WCSC]c0rr0de> yeah, we know
