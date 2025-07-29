@@ -11,6 +11,17 @@ Due to the late start, there are many gaps in our knowledge. Significant effort 
 
 For any historic photos we've collected, see the [photos](photos) directory.
 
+# 2025
+
+## Eboard
+
+- President: Fagan Afandiyev
+- Vice President/Interim President: Tyler Krapfl
+- Treasurer: Aylin Masiyeva
+- Secretary: Stanley Mmayie
+- System Administrator: Jun "Sky" Lu
+- Public Relations: Devon Chavarria
+
 # 2024
 
 The Blue Team Captain Position has been morphed into System Administrator as Whitehatters is no longer able to do competitions that necessitated it.
