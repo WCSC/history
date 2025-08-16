@@ -161,7 +161,7 @@ Held the first ctf at the Florida Cybersecurity Conference
 
 - President: Allison Kline (@sigtrap)
 - Vice President: Nathan Baron (@baronvon)
-- Treasurer: John (@ninjafish) or Bader AlBassam (@gh0s1) (Currently debated)
+- Treasurer: John (@ninjafish)
 
 # 2010-2011
 
