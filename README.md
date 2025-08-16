@@ -1,9 +1,8 @@
 # Whitehatters Computer Security Club History
 
-
 ## Inspiration and Validity Disclaimer
 
-The effort to record WCSC history began in 2019 by Kevin Orr, inspired by the passing of Joe Rogers. 
+The effort to record WCSC history began in 2019 by Kevin Orr, inspired by the passing of Joe Rogers.
 
 Due to the late start, there are many gaps in our knowledge. Significant effort was put into verifying the accuracy of the following, but it cannot be guranteed. If you have information on WCSC's past, please submit a pull request or message one of the current EBoard members.
 
@@ -130,7 +129,7 @@ Held the first ctf at the Florida Cybersecurity Conference
 ## Eboard
 
 - President: Will Seed (@wseed)
-- Vice President: ?
+- Vice President: Brad Trotter (@bt)
 - Secretary: Sean Murphy (@duck)
 - Treasurer: Todd Knieriemen
 
@@ -148,11 +147,11 @@ Held the first ctf at the Florida Cybersecurity Conference
 ## Eboard
 
 - President: Nathan Baron (@baronvon)
-- Treasurer: Brad Trotter (@bt)
+- Treasurer: Bader AlBassam (@gh0s1)
 
 # 2011-2012
 
-[WCSC at SECCDC](https://www.youtube.com/watch?v=893ej1Ubn_k) 
+[WCSC at SECCDC](https://www.youtube.com/watch?v=893ej1Ubn_k)
 
 ![2011 Glider logo](photos/2011/logo.png)
 
@@ -168,14 +167,14 @@ Held the first ctf at the Florida Cybersecurity Conference
 
 ![2010 Whitehatter logo](photos/2010/logo.png "2010 Logo")
 
-New logo design drawn by @fuzyll's (now wife) girlfriend to motivate new interest in the club. 
+New logo design drawn by @fuzyll's (now wife) girlfriend to motivate new interest in the club.
 
 ## Eboard
 
 - President: Alex Taylor (@fuzyll)
 - Vice President: Chris Head
 - Treasurer: Bhargava Kondaveeti
-- Secretary: Clayton Whitelaw 
+- Secretary: Clayton Whitelaw
 
 # 2009-2010
 
