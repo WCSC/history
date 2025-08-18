@@ -96,7 +96,8 @@ Add CTF wins (airport one and FC^2)
 
 # 2017-2018
 
-Held the first ctf at the Florida Cybersecurity Conference
+- [Held the second ctf at the Florida Cybersecurity Fourth Annual Conference](https://vimeo.com/214490917)
+- [Partnered with the Florida Center for Cybersecurity for GenCyber 2017 Student and Instructor Training](https://vimeo.com/226755825)
 
 ## Ebaord
 
@@ -108,6 +109,12 @@ Held the first ctf at the Florida Cybersecurity Conference
 
 # 2016-2017
 
+- [Held the first ctf at the Florida Cybersecurity Third Annual Conference](https://vimeo.com/214490917)
+- [Partnered with the Florida Center for Cybersecurity for GenCyber 2016 Student and Instructor Training](https://vimeo.com/179247653)
+- [Partnered with Florida Center for Cybersecurity on NSFNF Program to conduct The Challenge CTF](https://vimeo.com/179326782)
+- Partnered with USF Honors College to develop and instruct Cyber Defense Boot Camp Pre-College Program during Summer 2016
+- Winner of BSides Orlando SunshineCTF 2016
+
 ## Eboard
 
 - President: Kris Willis (@xan)
@@ -116,6 +123,12 @@ Held the first ctf at the Florida Cybersecurity Conference
 - Treasurer: Kareem Rigaud
 
 # 2015-2016
+
+- Dr. Xinming (Simon) Ou became faculty advisor
+- Jeremy Rassmussen became founding advisor
+- Reliaquest Sponsorship
+- SECCDC 2nd Place (xan, bspar, duck, spaghetti, aterribleloss, restova)
+- Started holding three seperate meetings (traditional Friday, Advanced, Defense(CCDC))
 
 ## Eboard
 
