@@ -15,7 +15,7 @@ For any historic photos we've collected, see the [photos](photos) directory.
 ## Eboard
 
 - President: Fagan Afandiyev
-- Vice President/Interim President: Tyler Krapfl
+- Vice President: Tyler Krapfl
 - Treasurer: Aylin Masiyeva
 - Secretary: Stanley Mmayie
 - System Administrator: Jun "Sky" Lu
