@@ -32,7 +32,7 @@ The Blue Team Captain Position has been morphed into System Administrator as Whi
 - Treasurer: Grant Stevens
 - Secretary: Fagan Afandiyev
 - System Administrator: Zachary Long
-- Public Relations: Public Relations
+- Public Relations: Benny Yu
 
 # 2023
 
