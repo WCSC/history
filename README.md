@@ -16,7 +16,7 @@ For any historic photos we've collected, see the [photos](photos) directory.
 
 - President: Fagan Afandiyev
 - Vice President: Tyler Krapfl
-- Treasurer: Aylin Masiyeva
+- Treasurer: Aylin Masiyeva - Spring | Sabria - Fall
 - Secretary: Stanley Mmayie
 - System Administrator: Jun "Sky" Lu
 - Public Relations: Devon Chavarria
