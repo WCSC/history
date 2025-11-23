@@ -12,6 +12,8 @@ For any historic photos we've collected, see the [photos](photos) directory.
 
 # 2025
 
+The 20th anniversary reunion was hosted on September 19th, 2025 at the MSC at USF.
+
 ## Eboard
 
 - President: Fagan Afandiyev
