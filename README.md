@@ -69,9 +69,24 @@ The Blue Team Captain Position has been morphed into System Administrator as Whi
 - Blue Team Captain: Nicholas Gonzalez
 - Public Relations: David Bravo
 
+# 2020
+
+Continuing the competition focus of the previous year, Whitehatters formally organized a competitive team with a stricter training regimen. The team quickly rose, placing high in several smaller CTFs before the interruption caused by the pandemic. Competition continued for a few months, but eventually fell apart due to lack of interest and the cancellation of many events (playing CTFs in a Teams call was depressing). The focus shifted to heavy infrastructure, rebuilding all of the club's documentation (both administrative and technical) and servers from the ground up to set future Whitehatters up for success. Normal meetings and trainings continued to be well attended despite the setback, and we assisted with remote versions of the summer camps Whitehatters had previously helped support (including a separate new CTF board and challenges).
+
+The positions of Public Relations and Blue Team Captain/Systems Admin were also formally amended into the Whitehatters constitution, making these positions permanent. 
+
+## Eboard
+
+- President: Kevin Dennis (@ktrio3)
+- Vice President: Julie Gonzalez (@Jules)
+- Treasurer: Patrick Farris (@Patrick)
+- Secretary: Christopher Greenland (@Christopher)
+- Blue Team Captain: Emlin Charly (@Emlin)
+- Public Relations: Alex Whitaker (@Whitaker)
+
 # 2019-2020
 
-Whitehatters 24/7 CTF board was restored during the 2019-2020 period. In addition, the first CodeBreakHERS camp, a cryptography summer camp for high school girls, was held during the summer of this year.
+Whitehatters 24/7 CTF board was restored during the 2019-2020 period. In addition, the first CodeBreakHERS camp, a cryptography summer camp for high school girls, was held during the summer of this year. Placed second at the Raymond James CTF.
 
 ## Eboard
 
@@ -86,7 +101,7 @@ Whitehatters 24/7 CTF board was restored during the 2019-2020 period. In additio
 
 The 2018-2019 Eboard designed a new, modern website for WCSC.
 
-Add CTF wins (airport one and FC^2)
+Whitehatters placed third in A-ISAC Collegiate Aviation-themed Capture The Flag (CTF) Challenge. Whitehatter Logan won second place at Dual Factor CTF at Florida CyberCon. 
 
 ## Eboard
 
